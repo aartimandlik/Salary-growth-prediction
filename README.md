@@ -23,6 +23,18 @@ jupyter Notebook
 
 Python Libraries : Pandas , Numpy , Matplotlib , Sklearn.
 
+Tableau 
+
 # Conclusion :
 
 We have drawn many intersting inferences from the dataset Salary_Growth_DataSet , heres a summary of the few of them .
+ 
+ 1  Maximum employee hired in Android company. Minimum Employee hired in SDE company.
+ 
+ 2  The Maximum salary of employee is 10000000 and minimum salary is 12000.
+ 
+ 3  The employment status of employee are most number of employee that Full time are 4633 , then intern are 451 and then contractor are 128, from this we observe that maximum number of employee prefer Full time job.
+
+ 4  And also most number of employees are in Banglore & less number of employee are in Hyderabad .
+ 
+ 
