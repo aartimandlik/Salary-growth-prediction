@@ -7,6 +7,6 @@ Aim:
  
  Methodology : 
  
- 
-     Data Collection : I have collected the Sample_Growth_DataSet from Kaggle.
-     Data Cleaning  : In this step we prepare the data for further analysis by find missing values and removing null values , transforming and standardizing our data.
+ Data Collection : I have collected the Sample_Growth_DataSet from Kaggle.
+ Data Cleaning  : In this step we prepare the data for further analysis by find missing values and removing null values ,
+ transforming and standardizing our data.
