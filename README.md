@@ -11,3 +11,5 @@
  
  Data Cleaning  : In this step we prepare the data for further analysis by find missing values and removing null values ,
  transforming and standardizing our data.
+ 
+ Exploratory Data Analysis : After cleaning process we study the discriptive statastic , visualize data based on how they related to each other.
