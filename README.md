@@ -13,3 +13,16 @@
  transforming and standardizing our data.
  
  Exploratory Data Analysis : After cleaning process we study the discriptive statastic , visualize data based on how they related to each other.
+ 
+ Model Development : In this stage we undergo the use of machine learning algorithm to model . 
+ 
+# Tools & Technology Used :
+Python
+
+jupyter Notebook 
+
+Python Libraries : Pandas , Numpy , Matplotlib , Sklearn.
+
+# Conclusion :
+
+We have drawn many intersting inferences from the dataset Salary_Growth_DataSet , heres a summary of the few of them .
